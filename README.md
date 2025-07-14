@@ -1,4 +1,8 @@
 # TaskTracker
-TaskTracker
+## Setup Instructions
 
-In Task Tracker we need manage the tasks Add,delete,update
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/TaskTracker.git
+   cd TaskTracker
+```
