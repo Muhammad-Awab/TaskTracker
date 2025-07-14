@@ -1,0 +1,1 @@
+gitignore is important if we don't want to push the installed dependcies and other secrets you should need to put all those to env file so then it didnot push to github.
